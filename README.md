@@ -1,3 +1,5 @@
+Para rodar: entrar na pasta, dar um yarn para instalar as dependencias e um yarn dev para rodar
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
